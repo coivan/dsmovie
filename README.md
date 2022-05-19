@@ -27,10 +27,15 @@ Instruções podem ser achadas nesta [página](https://docs.github.com/pt/reposi
 
 ## 🛠️ Construído com
 
-* React
+### 📱 Front end
+* TypeScript, HTML, CSS
+* ReactJS
 * Bootstrap
+### 💻 Back end
+* Java
 * Spring Boot Framework
-* Banco de dados de teste H2
+* Maven
+* Banco de testes H2
 * Banco de dados PostgreSQL
 
 ## 📌 Versão

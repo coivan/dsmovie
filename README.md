@@ -2,6 +2,8 @@
 
 Uma aplicação full stack para avaliação de filmes construída com React e String Boot. <br>
 Faz parte da Semana Spring React da [DevSuperior](https://devsuperior.com.br).
+![Desktop 1](https://github.com/coivan/assets/blob/main/dsmovie/dsmovie.png)
+![Desktop 2](https://github.com/coivan/assets/blob/main/dsmovie/dsmovie-avaliacao.png)
 
 ## 🚀 Começando
 
